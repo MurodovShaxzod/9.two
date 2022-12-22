@@ -1,5 +1,6 @@
 body {
   background-image: url(/img/bacg.jpg);
+  background-repeat: no-repeat;
   background-size: 100%;
   padding: 100px 300px ;
 }
